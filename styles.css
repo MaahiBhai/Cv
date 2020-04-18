@@ -75,6 +75,7 @@ p
   color: #40514E;
 	font-size:1.1rem;
 	width:50%;
+	text-align:center;
 }
 .propic{
   width:15%;
@@ -91,7 +92,9 @@ p
 .contact-info
 {
   margin: 2% auto 5% auto;
-  line-height: 2;	
+  line-height: 2;
+	width:50%;
+	text-align:center;
 }
 hr{
   border-style: dotted none none none;
