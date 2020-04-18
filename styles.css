@@ -18,7 +18,7 @@ font-weight: normal;
 }
 h3
 {
-  font-size: 1.3rem;
+  font-size: 130%;
   font-family: 'Merriweather', serif;
   color: #11999E;
 	margin: 0 auto 0 auto;
@@ -129,6 +129,6 @@ hr{
   text-decoration: none;
 }
 .content{
-  width: 50%;
+  width: 60%;
   margin: 3% auto 3% auto;
 }
