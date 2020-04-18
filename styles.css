@@ -11,7 +11,7 @@ h1{
 }
 h2
 {
-font-size: 2.5rem;
+font-size: 2.25rem;
 font-family: 'Merriweather', serif;
 color:  #66BFBF;
 font-weight: normal;
@@ -21,6 +21,8 @@ h3
   font-size: 1.3rem;
   font-family: 'Merriweather', serif;
   color: #11999E;
+	margin: 0 auto 0 auto;
+  width: 50%;
 }
 a
 {
